@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Testing_Project_!_Android_with_Nodejs</string>
+    <string name="get">GET</string>
+    <string name="post">POST</string>
+</resources>
